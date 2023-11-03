@@ -35,7 +35,8 @@ Notes
 The program only encrypts alphabetical characters, leaves spaces and other characters unchanged
 The shift amount wraps around (a shift of 26 would be the same as 0)
 Brute force tries all 26 possible shifts (0-25)
+
 Contributors
 Nhat Le
 
-Let me know if you would like any changes or have any other suggestions for improving the README!
+
